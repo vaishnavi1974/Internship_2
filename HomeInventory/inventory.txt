@@ -1,0 +1,24 @@
+2
+Car
+bangalore
+23
+true
+65000
+05/06/2022
+benki stores
+Very expensive
+C:\Users\Srikrishnan\Downloads\peakpx.jpg
+Maruti Suzuki Alto
+Bangalore
+1
+false
+500000
+05/29/2022
+Varun Motors Pvt. Ltd
+Personal car
+C:\Users\Srikrishnan\Desktop\Intern\car.jpg
+4
+wdd
+bangalore
+
+Bangalore
